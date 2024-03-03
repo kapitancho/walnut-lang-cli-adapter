@@ -36,3 +36,6 @@ php -f cli.php demo-cli 1 2
 php -f cli.php demo-cli 3 cats
 # Output: Invalid parameters
 ```
+### Examples
+
+You can browse the [examples](https://github.com/kapitancho/walnut-lang-demos) repository.

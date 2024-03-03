@@ -13,6 +13,6 @@
     ],
     "require": {
         "php": ">=8.2",
-        "kapitancho/walnut-lang": "^0.0.2"
+        "kapitancho/walnut-lang": "^0.0.3"
 	}
 }
